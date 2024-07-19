@@ -1,8 +1,6 @@
----
 filename: emails.yaml
 signatures:
-
-    - name: Email Address
+  - name: Email Address
     status: enabled
     author: Vikas Rawat
     date: "2024-07-15"
